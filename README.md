@@ -1,3 +1,3 @@
 # TabLayout
 
-customize tab layout.
+customized tab layout.
